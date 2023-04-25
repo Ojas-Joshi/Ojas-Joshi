@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GagDrag&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GagDrag&theme=radical&hide_border=false)<br/>
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=radical](https://github-readme-stats.vercel.app/api/top-langs?username=berkaygurcan&show_icons=true&locale=en&layout=compact&hide=python))
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=GagDrag&theme=radical](https://github-readme-stats.vercel.app/api/top-langs?username=berkaygurcan&show_icons=true&locale=en&layout=compact&hide=python))
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
