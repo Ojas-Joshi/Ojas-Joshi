@@ -3,9 +3,6 @@
 
 🎓 IT Engineering Student<br>🌱 I’m currently learning: Java<br>⚡ Fun fact: Caffeine Enthusiast
 
-![creative-process](https://user-images.githubusercontent.com/126965816/234366041-7aa95f7c-a6df-4847-bc40-ba1603f1134c.gif)
-
-
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagdrag_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ojasjoshiit) 
