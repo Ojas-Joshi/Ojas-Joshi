@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd Year Engineering Student at Vishwakarma Institute of Technology Pune, India<br>🌱 I’m currently learning: Java<br>⚡ Fun fact: Caffeine Enthusiast
+🎓 IT Engineering Student<br>🌱 I’m currently learning: Java<br>⚡ Fun fact: Caffeine Enthusiast
 
 
 # 🌐 Socials:
