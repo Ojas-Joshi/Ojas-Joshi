@@ -1,6 +1,6 @@
-<p style="text-align: center;">
+
 #  Hello 👋! I'm GagDrag
-</p>
+
 🎓 IT Engineering Student<br>🌱 I’m currently learning: Java<br>⚡ Fun fact: Caffeine Enthusiast
 
 
