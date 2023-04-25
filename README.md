@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm GagDrag
 🎓 IT Engineering Student<br>🌱 I’m currently learning: Java<br>⚡ Fun fact: Caffeine Enthusiast
 
 
