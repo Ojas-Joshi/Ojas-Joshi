@@ -2,6 +2,9 @@
 #  Hello 👋! I'm GagDrag
 
 🎓 IT Engineering Student<br>🌱 I’m currently learning: Java<br>⚡ Fun fact: Caffeine Enthusiast
+<p align="right">
+![creative-process](https://user-images.githubusercontent.com/126965816/234366041-7aa95f7c-a6df-4847-bc40-ba1603f1134c.gif)
+</p>
 
 
 # 🌐 Socials:
