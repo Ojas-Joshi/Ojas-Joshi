@@ -1,6 +1,6 @@
 #  Hello 👋! I'm GagDrag (Ojas Joshi)
 
-🎓 IT Engineering Student<br>🌱 I’m currently learning: Java<br>⚡ Fun fact: Caffeine Enthusiast
+🎓 IT Engineering Student<br>🌱 I’m currently learning: Java and DSA<br>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagdrag_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshi-ojas) 
