@@ -1,4 +1,4 @@
-#  Hello 👋! I'm GagDrag (Ojas Joshi)
+#  Hello 👋! I'm Ojas Joshi
 
 🎓 IT Engineering Student<br>🌱 I’m currently learning: Java and DSA<br>
 
